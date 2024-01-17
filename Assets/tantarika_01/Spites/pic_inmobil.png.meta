@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 1098f6e0cd6732749afe77e359e8b0d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6205236019400354632
+    second: pic_inmobil_0
+  - first:
+      213: 4884245586803283814
+    second: pic_inmobil_1
+  - first:
+      213: -360746646515576547
+    second: pic_inmobil_2
+  - first:
+      213: 572750825774646909
+    second: pic_inmobil_3
+  - first:
+      213: -1615362244681604120
+    second: pic_inmobil_4
+  - first:
+      213: 4367658655402614700
+    second: pic_inmobil_5
+  - first:
+      213: 5221913997239433051
+    second: pic_inmobil_6
+  - first:
+      213: -7783157760920905536
+    second: pic_inmobil_7
+  - first:
+      213: -5955358407064861646
+    second: pic_inmobil_8
+  - first:
+      213: -8143299108523905331
+    second: pic_inmobil_9
+  - first:
+      213: 5201854514893003808
+    second: pic_inmobil_10
+  - first:
+      213: 4505341505569315999
+    second: pic_inmobil_11
+  - first:
+      213: -3585149877328428955
+    second: pic_inmobil_12
+  - first:
+      213: 245718937979027269
+    second: pic_inmobil_13
+  - first:
+      213: 273004269428087447
+    second: pic_inmobil_14
+  - first:
+      213: -1045617544112818807
+    second: pic_inmobil_15
+  - first:
+      213: 7921515730476300240
+    second: pic_inmobil_16
+  - first:
+      213: -3802464945329419427
+    second: pic_inmobil_17
+  - first:
+      213: 2353385601551223800
+    second: pic_inmobil_18
+  - first:
+      213: 6246693260121856557
+    second: pic_inmobil_19
+  - first:
+      213: 7827071478802427148
+    second: pic_inmobil_20
+  - first:
+      213: 382466306624710624
+    second: pic_inmobil_21
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pic_inmobil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b21db684d6d1650800000000000000
+      internalID: 6205236019400354632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667dd2dbb7358c340800000000000000
+      internalID: 4884245586803283814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11968816de5efaf0800000000000000
+      internalID: -360746646515576547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d760c1b67d1d2f700800000000000000
+      internalID: 572750825774646909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ec26d8941599e0800000000000000
+      internalID: -1615362244681604120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_5
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafde6ff76a0d9c30800000000000000
+      internalID: 4367658655402614700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_6
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b8151d17f77840800000000000000
+      internalID: 5221913997239433051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_7
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81c7dd04bacf390800000000000000
+      internalID: -7783157760920905536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_8
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23443c4e4115a5da0800000000000000
+      internalID: -5955358407064861646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_9
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce6da81b903dfe80800000000000000
+      internalID: -8143299108523905331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_10
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 318
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9575ee13b03840800000000000000
+      internalID: 5201854514893003808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c584f9a30368e30800000000000000
+      internalID: 4505341505569315999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560cd477e2dfe3ec0800000000000000
+      internalID: -3585149877328428955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f73dc7218f86300800000000000000
+      internalID: 245718937979027269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a1d65cfe7e9c300800000000000000
+      internalID: 273004269428087447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_15
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853d3032683d71f0800000000000000
+      internalID: -1045617544112818807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_16
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d775bd3690eeed60800000000000000
+      internalID: 7921515730476300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_17
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc3ce474eea3bc0800000000000000
+      internalID: -3802464945329419427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_18
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbcaff5cb7e8a020800000000000000
+      internalID: 2353385601551223800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_19
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad3667c66b0b650800000000000000
+      internalID: 6246693260121856557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_20
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2c955a085f9c60800000000000000
+      internalID: 7827071478802427148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_inmobil_21
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 318.18182
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7ebe8541bce4500800000000000000
+      internalID: 382466306624710624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1aff663b903525746866199be9f0d9c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pic_inmobil_0: 6205236019400354632
+      pic_inmobil_1: 4884245586803283814
+      pic_inmobil_10: 5201854514893003808
+      pic_inmobil_11: 4505341505569315999
+      pic_inmobil_12: -3585149877328428955
+      pic_inmobil_13: 245718937979027269
+      pic_inmobil_14: 273004269428087447
+      pic_inmobil_15: -1045617544112818807
+      pic_inmobil_16: 7921515730476300240
+      pic_inmobil_17: -3802464945329419427
+      pic_inmobil_18: 2353385601551223800
+      pic_inmobil_19: 6246693260121856557
+      pic_inmobil_2: -360746646515576547
+      pic_inmobil_20: 7827071478802427148
+      pic_inmobil_21: 382466306624710624
+      pic_inmobil_3: 572750825774646909
+      pic_inmobil_4: -1615362244681604120
+      pic_inmobil_5: 4367658655402614700
+      pic_inmobil_6: 5221913997239433051
+      pic_inmobil_7: -7783157760920905536
+      pic_inmobil_8: -5955358407064861646
+      pic_inmobil_9: -8143299108523905331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

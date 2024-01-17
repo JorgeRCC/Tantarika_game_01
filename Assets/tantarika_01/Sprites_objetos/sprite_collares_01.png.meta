@@ -1,0 +1,3217 @@
+fileFormatVersion: 2
+guid: 96ca665e79233254eb57e17237803100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1974341698727311999
+    second: sprite_collares_01_0
+  - first:
+      213: 6322675777142875804
+    second: sprite_collares_01_1
+  - first:
+      213: 555532341449141787
+    second: sprite_collares_01_2
+  - first:
+      213: -6397543363433770045
+    second: sprite_collares_01_3
+  - first:
+      213: -6004214024971879181
+    second: sprite_collares_01_4
+  - first:
+      213: -139917220893693684
+    second: sprite_collares_01_5
+  - first:
+      213: -763647132989819976
+    second: sprite_collares_01_6
+  - first:
+      213: 6755931570255234678
+    second: sprite_collares_01_7
+  - first:
+      213: -610148912673934682
+    second: sprite_collares_01_8
+  - first:
+      213: -7337623304043643782
+    second: sprite_collares_01_9
+  - first:
+      213: 6514444830766762161
+    second: sprite_collares_01_10
+  - first:
+      213: -3074506349549874038
+    second: sprite_collares_01_11
+  - first:
+      213: 2362486085369627962
+    second: sprite_collares_01_12
+  - first:
+      213: -5434804375929309159
+    second: sprite_collares_01_13
+  - first:
+      213: 2714657001105157543
+    second: sprite_collares_01_14
+  - first:
+      213: 2236936065852741476
+    second: sprite_collares_01_15
+  - first:
+      213: 6232784357737029975
+    second: sprite_collares_01_16
+  - first:
+      213: 4241482684060060424
+    second: sprite_collares_01_17
+  - first:
+      213: 3990025632267268228
+    second: sprite_collares_01_18
+  - first:
+      213: 2967466086466064778
+    second: sprite_collares_01_19
+  - first:
+      213: -1424701312126713614
+    second: sprite_collares_01_20
+  - first:
+      213: 5416588314062664607
+    second: sprite_collares_01_21
+  - first:
+      213: -5530584027871308136
+    second: sprite_collares_01_22
+  - first:
+      213: 2145951660123069245
+    second: sprite_collares_01_23
+  - first:
+      213: 9031594390937042939
+    second: sprite_collares_01_24
+  - first:
+      213: 8134897542370024289
+    second: sprite_collares_01_25
+  - first:
+      213: 5957243085629105384
+    second: sprite_collares_01_26
+  - first:
+      213: 6212607555722741231
+    second: sprite_collares_01_27
+  - first:
+      213: -1915687452620696385
+    second: sprite_collares_01_28
+  - first:
+      213: -7490738991462607966
+    second: sprite_collares_01_29
+  - first:
+      213: 2902253228599944919
+    second: sprite_collares_01_30
+  - first:
+      213: -3320971517144621033
+    second: sprite_collares_01_31
+  - first:
+      213: 3613119739832567805
+    second: sprite_collares_01_32
+  - first:
+      213: -2210177470316184534
+    second: sprite_collares_01_33
+  - first:
+      213: 4540338823165078154
+    second: sprite_collares_01_34
+  - first:
+      213: 2926614962487878230
+    second: sprite_collares_01_35
+  - first:
+      213: -3615415511463542485
+    second: sprite_collares_01_36
+  - first:
+      213: -454442054437755095
+    second: sprite_collares_01_37
+  - first:
+      213: 280624314536125881
+    second: sprite_collares_01_38
+  - first:
+      213: -5751520285055088241
+    second: sprite_collares_01_39
+  - first:
+      213: 5705106782782099265
+    second: sprite_collares_01_40
+  - first:
+      213: -3098421267170512046
+    second: sprite_collares_01_41
+  - first:
+      213: 7162796585386792566
+    second: sprite_collares_01_42
+  - first:
+      213: 633276262961148748
+    second: sprite_collares_01_43
+  - first:
+      213: -2701452912005921183
+    second: sprite_collares_01_44
+  - first:
+      213: -3830785314595951263
+    second: sprite_collares_01_45
+  - first:
+      213: 6119570052697031523
+    second: sprite_collares_01_46
+  - first:
+      213: 86471973993565925
+    second: sprite_collares_01_47
+  - first:
+      213: -3525798629657980419
+    second: sprite_collares_01_48
+  - first:
+      213: 837261469583170134
+    second: sprite_collares_01_49
+  - first:
+      213: 7015613409192867515
+    second: sprite_collares_01_50
+  - first:
+      213: 7903417958459135646
+    second: sprite_collares_01_51
+  - first:
+      213: -7687175251475550250
+    second: sprite_collares_01_52
+  - first:
+      213: 6789284950909995525
+    second: sprite_collares_01_53
+  - first:
+      213: 3646676596283546788
+    second: sprite_collares_01_54
+  - first:
+      213: -7531899319754073654
+    second: sprite_collares_01_55
+  - first:
+      213: 811175501522649441
+    second: sprite_collares_01_56
+  - first:
+      213: -2134416554866585366
+    second: sprite_collares_01_57
+  - first:
+      213: -55059039641295905
+    second: sprite_collares_01_58
+  - first:
+      213: -5131492897942420949
+    second: sprite_collares_01_59
+  - first:
+      213: -7159154290014368000
+    second: sprite_collares_01_60
+  - first:
+      213: 4259422907461848431
+    second: sprite_collares_01_61
+  - first:
+      213: 1098183080435953154
+    second: sprite_collares_01_62
+  - first:
+      213: 8183202447818000283
+    second: sprite_collares_01_63
+  - first:
+      213: 2121687307064037057
+    second: sprite_collares_01_64
+  - first:
+      213: 119706241683545126
+    second: sprite_collares_01_65
+  - first:
+      213: 8310619348226832351
+    second: sprite_collares_01_66
+  - first:
+      213: -5299142402975307721
+    second: sprite_collares_01_67
+  - first:
+      213: 4678693115221477575
+    second: sprite_collares_01_68
+  - first:
+      213: -6186324629746784376
+    second: sprite_collares_01_69
+  - first:
+      213: -2794387920671416259
+    second: sprite_collares_01_70
+  - first:
+      213: -5616880360344125590
+    second: sprite_collares_01_71
+  - first:
+      213: 3429128655959940579
+    second: sprite_collares_01_72
+  - first:
+      213: 6056256073547386260
+    second: sprite_collares_01_73
+  - first:
+      213: -4467019601764176251
+    second: sprite_collares_01_74
+  - first:
+      213: 8036397327316052262
+    second: sprite_collares_01_75
+  - first:
+      213: -1633363902431281699
+    second: sprite_collares_01_76
+  - first:
+      213: -58714804691299841
+    second: sprite_collares_01_77
+  - first:
+      213: 4902155161360683589
+    second: sprite_collares_01_78
+  - first:
+      213: -1329835576640550232
+    second: sprite_collares_01_79
+  - first:
+      213: 1492266646494675035
+    second: sprite_collares_01_80
+  - first:
+      213: -7955535953856506501
+    second: sprite_collares_01_81
+  - first:
+      213: 5812903325296340183
+    second: sprite_collares_01_82
+  - first:
+      213: 8941128665672909218
+    second: sprite_collares_01_83
+  - first:
+      213: -3709193116520578142
+    second: sprite_collares_01_84
+  - first:
+      213: 9140135998022456998
+    second: sprite_collares_01_85
+  - first:
+      213: -4534684857675620212
+    second: sprite_collares_01_86
+  - first:
+      213: 9203988017333668627
+    second: sprite_collares_01_87
+  - first:
+      213: 3804505545764753713
+    second: sprite_collares_01_88
+  - first:
+      213: 1723224728088719830
+    second: sprite_collares_01_89
+  - first:
+      213: -644685663402120811
+    second: sprite_collares_01_90
+  - first:
+      213: -8778793188856807827
+    second: sprite_collares_01_91
+  - first:
+      213: 8556412251899340970
+    second: sprite_collares_01_92
+  - first:
+      213: 3695756652857451604
+    second: sprite_collares_01_93
+  - first:
+      213: 1355047203745511373
+    second: sprite_collares_01_94
+  - first:
+      213: -4466569294469039667
+    second: sprite_collares_01_95
+  - first:
+      213: -8769621491716932778
+    second: sprite_collares_01_96
+  - first:
+      213: -829888211473520863
+    second: sprite_collares_01_97
+  - first:
+      213: -3758108491507329012
+    second: sprite_collares_01_98
+  - first:
+      213: -1358541792867814508
+    second: sprite_collares_01_99
+  - first:
+      213: 5745874933656178682
+    second: sprite_collares_01_100
+  - first:
+      213: -4511908010476098564
+    second: sprite_collares_01_101
+  - first:
+      213: -6750920947495799542
+    second: sprite_collares_01_102
+  - first:
+      213: 2326675858133301478
+    second: sprite_collares_01_103
+  - first:
+      213: 2343039109987362379
+    second: sprite_collares_01_104
+  - first:
+      213: 3850894424889081013
+    second: sprite_collares_01_105
+  - first:
+      213: -4895785578902200981
+    second: sprite_collares_01_106
+  - first:
+      213: 8712220200054123470
+    second: sprite_collares_01_107
+  - first:
+      213: 5249574247392417259
+    second: sprite_collares_01_108
+  - first:
+      213: -811830115222728293
+    second: sprite_collares_01_109
+  - first:
+      213: -7947550903147772294
+    second: sprite_collares_01_110
+  - first:
+      213: 3300293545079005905
+    second: sprite_collares_01_111
+  - first:
+      213: 2056237827725541762
+    second: sprite_collares_01_112
+  - first:
+      213: 2995436499543611936
+    second: sprite_collares_01_113
+  - first:
+      213: 552657793302697673
+    second: sprite_collares_01_114
+  - first:
+      213: 6159355575087627906
+    second: sprite_collares_01_115
+  - first:
+      213: -5601523171218783776
+    second: sprite_collares_01_116
+  - first:
+      213: -3638183193647647942
+    second: sprite_collares_01_117
+  - first:
+      213: -4960980896907488330
+    second: sprite_collares_01_118
+  - first:
+      213: 8738707002895173856
+    second: sprite_collares_01_119
+  - first:
+      213: -698595403578407660
+    second: sprite_collares_01_120
+  - first:
+      213: -1128353539981375922
+    second: sprite_collares_01_121
+  - first:
+      213: 2871825978436127224
+    second: sprite_collares_01_122
+  - first:
+      213: 3590074326853285016
+    second: sprite_collares_01_123
+  - first:
+      213: 4859248451414727736
+    second: sprite_collares_01_124
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_collares_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 172
+        height: 1680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7af1e18055466b10800000000000000
+      internalID: 1974341698727311999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 364
+        height: 1765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96619ece18aeb750800000000000000
+      internalID: 6322675777142875804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1131
+        width: 363
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e2151a8b5a5b700800000000000000
+      internalID: 555532341449141787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_3
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1688
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c35f53e43c5737a0800000000000000
+      internalID: -6397543363433770045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1692
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcf12ee72fbcaca0800000000000000
+      internalID: -6004214024971879181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_5
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1686
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09eba6670aee0ef0800000000000000
+      internalID: -139917220893693684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_6
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1686
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b375608afaf665f0800000000000000
+      internalID: -763647132989819976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_7
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1692
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67609ebf7f3e1cd50800000000000000
+      internalID: 6755931570255234678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_8
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1688
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2baffebc05887f0800000000000000
+      internalID: -610148912673934682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_9
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1507
+        width: 233
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cb9da3b768b2a90800000000000000
+      internalID: -7337623304043643782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_10
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1675
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88bbefe05f76a50800000000000000
+      internalID: 6514444830766762161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_11
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1507
+        width: 233
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849567b3c82555d0800000000000000
+      internalID: -3074506349549874038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_12
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1675
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358241e39c39c020800000000000000
+      internalID: 2362486085369627962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_13
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1640
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918bef40732b394b0800000000000000
+      internalID: -5434804375929309159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_14
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1620
+        width: 104
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad66edd8266ca520800000000000000
+      internalID: 2714657001105157543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_15
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467996600813b0f10800000000000000
+      internalID: 2236936065852741476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_16
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1103
+        width: 500
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751e684c95c4f7650800000000000000
+      internalID: 6232784357737029975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1591
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bce506706ccda30800000000000000
+      internalID: 4241482684060060424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_18
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1561
+        width: 106
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4807ef72c2b6f5730800000000000000
+      internalID: 3990025632267268228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_19
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1354
+        width: 216
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8114deeeae8e2920800000000000000
+      internalID: 2967466086466064778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_20
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1524
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f087ab74b17a3ce0800000000000000
+      internalID: -1424701312126713614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_21
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1559
+        width: 105
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93bc329f569b2b40800000000000000
+      internalID: 5416588314062664607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_22
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1592
+        width: 105
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961842012b6f33b0800000000000000
+      internalID: -5530584027871308136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_23
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1591
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b9bc64aa3f7cd10800000000000000
+      internalID: 2145951660123069245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_24
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 958
+        width: 239
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff76334f3ba65d70800000000000000
+      internalID: 9031594390937042939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_25
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1565
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bd929d636f4e070800000000000000
+      internalID: 8134897542370024289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_26
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1270
+        width: 274
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4239706016ca250800000000000000
+      internalID: 5957243085629105384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_27
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1497
+        width: 112
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe503c7f7ad973650800000000000000
+      internalID: 6212607555722741231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_28
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 1565
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4dedd596c1a65e0800000000000000
+      internalID: -1915687452620696385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_29
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1504
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a314bc239c8b0890800000000000000
+      internalID: -7490738991462607966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_30
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62ee24fefd64820800000000000000
+      internalID: 2902253228599944919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_31
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1489
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a76b100a89e1d0800000000000000
+      internalID: -3320971517144621033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_32
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1492
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df70caf9241642230800000000000000
+      internalID: 3613119739832567805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_33
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1492
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7b3ffc4fd351e0800000000000000
+      internalID: -2210177470316184534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_34
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1449
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6baa9a16820f30800000000000000
+      internalID: 4540338823165078154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_35
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1485
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ee617dcc6d9820800000000000000
+      internalID: 2926614962487878230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_36
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1466
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2147c36fb673ddc0800000000000000
+      internalID: -3615415511463542485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_37
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1492
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9272d36fb5f71b9f0800000000000000
+      internalID: -454442054437755095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1492
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b56347c35af4e300800000000000000
+      internalID: 280624314536125881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_39
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1489
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8986da06ce7e20b0800000000000000
+      internalID: -5751520285055088241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_40
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1494
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f0669546c9c2f40800000000000000
+      internalID: 5705106782782099265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_41
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1504
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25339cd06423005d0800000000000000
+      internalID: -3098421267170512046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_42
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 928
+        width: 928
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6765c565b8d576360800000000000000
+      internalID: 7162796585386792566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_43
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1490
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437c7ae769d9c800800000000000000
+      internalID: 633276262961148748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_44
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1490
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664172b3e2828ad0800000000000000
+      internalID: -2701452912005921183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_45
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1390
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da9b08d0156dac0800000000000000
+      internalID: -3830785314595951263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_46
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1435
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36300214a841de450800000000000000
+      internalID: 6119570052697031523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_47
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1490
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eec9ec5dc5333100800000000000000
+      internalID: 86471973993565925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_48
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1490
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15da9a3d8d11fc0800000000000000
+      internalID: -3525798629657980419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_49
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1396
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a50aededc8e9b00800000000000000
+      internalID: 837261469583170134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_50
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1295
+        width: 261
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67860b9377c5160800000000000000
+      internalID: 7015613409192867515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_51
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1347
+        width: 188
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96566552c49ead60800000000000000
+      internalID: 7903417958459135646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_52
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1239
+        width: 283
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df20a156daa15590800000000000000
+      internalID: -7687175251475550250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_53
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1406
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a45e111b2683e50800000000000000
+      internalID: 6789284950909995525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_54
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1295
+        width: 262
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac163c1b099b9230800000000000000
+      internalID: 3646676596283546788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_55
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1396
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac95d027971597790800000000000000
+      internalID: -7531899319754073654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_56
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1369
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c1c222dfd14b00800000000000000
+      internalID: 811175501522649441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_57
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 1369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0d674b3770162e0800000000000000
+      internalID: -2134416554866585366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_58
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1324
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3a18c58146c3ff0800000000000000
+      internalID: -55059039641295905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_60
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1256
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fca73aa1395ac90800000000000000
+      internalID: -7159154290014368000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_61
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1247
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dcc6321928c1b30800000000000000
+      internalID: 4259422907461848431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_62
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1241
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eaab771b78d3f00800000000000000
+      internalID: 1098183080435953154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_63
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1239
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978c431543909170800000000000000
+      internalID: 8183202447818000283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_64
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1123
+        width: 256
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec1065d5fb17d10800000000000000
+      internalID: 2121687307064037057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_65
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1324
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cd1fc413849a100800000000000000
+      internalID: 119706241683545126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_66
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1289
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd77c820440455370800000000000000
+      internalID: 8310619348226832351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_67
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1282
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73862708f0aa576b0800000000000000
+      internalID: -5299142402975307721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_68
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1280
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c887d9799e0ee040800000000000000
+      internalID: 4678693115221477575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_69
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88761ba9682c52aa0800000000000000
+      internalID: -6186324629746784376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_70
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 1281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ecbfcdf65839d0800000000000000
+      internalID: -2794387920671416259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_71
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1280
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ff1df5215dc02b0800000000000000
+      internalID: -5616880360344125590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_72
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1282
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edda932856b69f20800000000000000
+      internalID: 3429128655959940579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_73
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1289
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d089cbfc42c0450800000000000000
+      internalID: 6056256073547386260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_74
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1226
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ea328e655f102c0800000000000000
+      internalID: -4467019601764176251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_76
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1229
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd33a64f202559e0800000000000000
+      internalID: -1633363902431281699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_77
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1239
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1915b32376f2ff0800000000000000
+      internalID: -58714804691299841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_78
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1229
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54250c28524f70440800000000000000
+      internalID: 4902155161360683589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_79
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1226
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac9acb6997b8de0800000000000000
+      internalID: -1329835576640550232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_80
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b508a7ecb9895b410800000000000000
+      internalID: 1492266646494675035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_81
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1185
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d8804332489190800000000000000
+      internalID: -7955535953856506501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_82
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1185
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dca9f9b6c49ba050800000000000000
+      internalID: 5812903325296340183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_83
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1003
+        width: 207
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a10f783625451c70800000000000000
+      internalID: 8941128665672909218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_84
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3877e338c468cc0800000000000000
+      internalID: -3709193116520578142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_85
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a693e0834948de70800000000000000
+      internalID: 9140135998022456998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_86
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80e6e1d5209111c0800000000000000
+      internalID: -4534684857675620212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_87
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b002246522bbf70800000000000000
+      internalID: 9203988017333668627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_88
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131df4103a15cc430800000000000000
+      internalID: 3804505545764753713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_89
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1122
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b5e992cf1ae710800000000000000
+      internalID: 1723224728088719830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_90
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1119
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59921290ecd9d07f0800000000000000
+      internalID: -644685663402120811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_91
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1133
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e32955b167b2680800000000000000
+      internalID: -8778793188856807827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_92
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1133
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8a24afb9b7eb670800000000000000
+      internalID: 8556412251899340970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_93
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1119
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454ead54817f94330800000000000000
+      internalID: 3695756652857451604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_94
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1122
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc73321a0481ec210800000000000000
+      internalID: 1355047203745511373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_95
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9718e34ee8302c0800000000000000
+      internalID: -4466569294469039667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_96
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1108
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bb49b77bb0c4680800000000000000
+      internalID: -8769621491716932778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_97
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12726df8115ab74f0800000000000000
+      internalID: -829888211473520863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_98
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1108
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0893500d3488dbc0800000000000000
+      internalID: -3758108491507329012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_99
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1110
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493779fef6d752de0800000000000000
+      internalID: -1358541792867814508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_100
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1110
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affc5682fc27dbf40800000000000000
+      internalID: 5745874933656178682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_101
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1108
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb2550d19b7261c0800000000000000
+      internalID: -4511908010476098564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_102
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f4c98a29ef42a0800000000000000
+      internalID: -6750920947495799542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_103
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1108
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8338f9d530a4020800000000000000
+      internalID: 2326675858133301478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_104
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e4a518a5248020800000000000000
+      internalID: 2343039109987362379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_105
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1088
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcbb079310217530800000000000000
+      internalID: 3850894424889081013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_106
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1088
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ddd0974fcae0cb0800000000000000
+      internalID: -4895785578902200981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_107
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1058
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6535dc1608e870800000000000000
+      internalID: 8712220200054123470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_108
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1058
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51ddde6fb3ad840800000000000000
+      internalID: 5249574247392417259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_109
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1019
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915f2cbfcccbb4f0800000000000000
+      internalID: -811830115222728293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_110
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1019
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76ca8fbf80a4b190800000000000000
+      internalID: -7947550903147772294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_111
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1000
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e2f85e7ffccd20800000000000000
+      internalID: 3300293545079005905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_112
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 989
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2814d4fe869398c10800000000000000
+      internalID: 2056237827725541762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_113
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1000
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a598630ade19920800000000000000
+      internalID: 2995436499543611936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_114
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1000
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6982cb55f6ba700800000000000000
+      internalID: 552657793302697673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_115
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 989
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7b6a034d6a7550800000000000000
+      internalID: 6159355575087627906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_116
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1000
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1826a9a546342b0800000000000000
+      internalID: -5601523171218783776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_117
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 985
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33f5da49a3928dc0800000000000000
+      internalID: -3638183193647647942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_118
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 985
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3945e982e072bb0800000000000000
+      internalID: -4960980896907488330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_119
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 590
+        width: 465
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e809cf28bf164970800000000000000
+      internalID: 8738707002895173856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_120
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 526
+        width: 771
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4150df78e271e46f0800000000000000
+      internalID: -698595403578407660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_121
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 6
+        width: 468
+        height: 761
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e460b540f684750f0800000000000000
+      internalID: -1128353539981375922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_122
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 10
+        width: 2018
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f98c650386cad720800000000000000
+      internalID: 2871825978436127224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_123
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 282
+        width: 1800
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f659449182d130800000000000000
+      internalID: 3590074326853285016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_124
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 71
+        width: 246
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c11fd98b48f6340800000000000000
+      internalID: 4859248451414727736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_collares_01_125
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 956
+        width: 1383
+        height: 863
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf48116e54cd7438de17a655f020fa
+      internalID: -1436459963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1507cf99368baa4da36516ec93bcecf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_collares_01_0: 1974341698727311999
+      sprite_collares_01_1: 6322675777142875804
+      sprite_collares_01_10: 6514444830766762161
+      sprite_collares_01_100: 5745874933656178682
+      sprite_collares_01_101: -4511908010476098564
+      sprite_collares_01_102: -6750920947495799542
+      sprite_collares_01_103: 2326675858133301478
+      sprite_collares_01_104: 2343039109987362379
+      sprite_collares_01_105: 3850894424889081013
+      sprite_collares_01_106: -4895785578902200981
+      sprite_collares_01_107: 8712220200054123470
+      sprite_collares_01_108: 5249574247392417259
+      sprite_collares_01_109: -811830115222728293
+      sprite_collares_01_11: -3074506349549874038
+      sprite_collares_01_110: -7947550903147772294
+      sprite_collares_01_111: 3300293545079005905
+      sprite_collares_01_112: 2056237827725541762
+      sprite_collares_01_113: 2995436499543611936
+      sprite_collares_01_114: 552657793302697673
+      sprite_collares_01_115: 6159355575087627906
+      sprite_collares_01_116: -5601523171218783776
+      sprite_collares_01_117: -3638183193647647942
+      sprite_collares_01_118: -4960980896907488330
+      sprite_collares_01_119: 8738707002895173856
+      sprite_collares_01_12: 2362486085369627962
+      sprite_collares_01_120: -698595403578407660
+      sprite_collares_01_121: -1128353539981375922
+      sprite_collares_01_122: 2871825978436127224
+      sprite_collares_01_123: 3590074326853285016
+      sprite_collares_01_124: 4859248451414727736
+      sprite_collares_01_125: 327040621
+      sprite_collares_01_13: -5434804375929309159
+      sprite_collares_01_14: 2714657001105157543
+      sprite_collares_01_15: 2236936065852741476
+      sprite_collares_01_16: 6232784357737029975
+      sprite_collares_01_17: 4241482684060060424
+      sprite_collares_01_18: 3990025632267268228
+      sprite_collares_01_19: 2967466086466064778
+      sprite_collares_01_2: 555532341449141787
+      sprite_collares_01_20: -1424701312126713614
+      sprite_collares_01_21: 5416588314062664607
+      sprite_collares_01_22: -5530584027871308136
+      sprite_collares_01_23: 2145951660123069245
+      sprite_collares_01_24: 9031594390937042939
+      sprite_collares_01_25: 8134897542370024289
+      sprite_collares_01_26: 5957243085629105384
+      sprite_collares_01_27: 6212607555722741231
+      sprite_collares_01_28: -1915687452620696385
+      sprite_collares_01_29: -7490738991462607966
+      sprite_collares_01_3: -6397543363433770045
+      sprite_collares_01_30: 2902253228599944919
+      sprite_collares_01_31: -3320971517144621033
+      sprite_collares_01_32: 3613119739832567805
+      sprite_collares_01_33: -2210177470316184534
+      sprite_collares_01_34: 4540338823165078154
+      sprite_collares_01_35: 2926614962487878230
+      sprite_collares_01_36: -3615415511463542485
+      sprite_collares_01_37: -454442054437755095
+      sprite_collares_01_38: 280624314536125881
+      sprite_collares_01_39: -5751520285055088241
+      sprite_collares_01_4: -6004214024971879181
+      sprite_collares_01_40: 5705106782782099265
+      sprite_collares_01_41: -3098421267170512046
+      sprite_collares_01_42: 7162796585386792566
+      sprite_collares_01_43: 633276262961148748
+      sprite_collares_01_44: -2701452912005921183
+      sprite_collares_01_45: -3830785314595951263
+      sprite_collares_01_46: 6119570052697031523
+      sprite_collares_01_47: 86471973993565925
+      sprite_collares_01_48: -3525798629657980419
+      sprite_collares_01_49: 837261469583170134
+      sprite_collares_01_5: -139917220893693684
+      sprite_collares_01_50: 7015613409192867515
+      sprite_collares_01_51: 7903417958459135646
+      sprite_collares_01_52: -7687175251475550250
+      sprite_collares_01_53: 6789284950909995525
+      sprite_collares_01_54: 3646676596283546788
+      sprite_collares_01_55: -7531899319754073654
+      sprite_collares_01_56: 811175501522649441
+      sprite_collares_01_57: -2134416554866585366
+      sprite_collares_01_58: -55059039641295905
+      sprite_collares_01_59: -5131492897942420949
+      sprite_collares_01_6: -763647132989819976
+      sprite_collares_01_60: -7159154290014368000
+      sprite_collares_01_61: 4259422907461848431
+      sprite_collares_01_62: 1098183080435953154
+      sprite_collares_01_63: 8183202447818000283
+      sprite_collares_01_64: 2121687307064037057
+      sprite_collares_01_65: 119706241683545126
+      sprite_collares_01_66: 8310619348226832351
+      sprite_collares_01_67: -5299142402975307721
+      sprite_collares_01_68: 4678693115221477575
+      sprite_collares_01_69: -6186324629746784376
+      sprite_collares_01_7: 6755931570255234678
+      sprite_collares_01_70: -2794387920671416259
+      sprite_collares_01_71: -5616880360344125590
+      sprite_collares_01_72: 3429128655959940579
+      sprite_collares_01_73: 6056256073547386260
+      sprite_collares_01_74: -4467019601764176251
+      sprite_collares_01_75: 8036397327316052262
+      sprite_collares_01_76: -1633363902431281699
+      sprite_collares_01_77: -58714804691299841
+      sprite_collares_01_78: 4902155161360683589
+      sprite_collares_01_79: -1329835576640550232
+      sprite_collares_01_8: -610148912673934682
+      sprite_collares_01_80: 1492266646494675035
+      sprite_collares_01_81: -7955535953856506501
+      sprite_collares_01_82: 5812903325296340183
+      sprite_collares_01_83: 8941128665672909218
+      sprite_collares_01_84: -3709193116520578142
+      sprite_collares_01_85: 9140135998022456998
+      sprite_collares_01_86: -4534684857675620212
+      sprite_collares_01_87: 9203988017333668627
+      sprite_collares_01_88: 3804505545764753713
+      sprite_collares_01_89: 1723224728088719830
+      sprite_collares_01_9: -7337623304043643782
+      sprite_collares_01_90: -644685663402120811
+      sprite_collares_01_91: -8778793188856807827
+      sprite_collares_01_92: 8556412251899340970
+      sprite_collares_01_93: 3695756652857451604
+      sprite_collares_01_94: 1355047203745511373
+      sprite_collares_01_95: -4466569294469039667
+      sprite_collares_01_96: -8769621491716932778
+      sprite_collares_01_97: -829888211473520863
+      sprite_collares_01_98: -3758108491507329012
+      sprite_collares_01_99: -1358541792867814508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

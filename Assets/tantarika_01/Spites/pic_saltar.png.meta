@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 4b1dee3f7ff54934f8b0466c2a887e69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8053437613924647244
+    second: pic_saltar_0
+  - first:
+      213: -6613379305618769894
+    second: pic_saltar_1
+  - first:
+      213: -8360383951272566377
+    second: pic_saltar_2
+  - first:
+      213: -7770091887629483650
+    second: pic_saltar_3
+  - first:
+      213: 853592616442935374
+    second: pic_saltar_4
+  - first:
+      213: -6078966555247986595
+    second: pic_saltar_5
+  - first:
+      213: -5455891462893197570
+    second: pic_saltar_6
+  - first:
+      213: -7731489741254735288
+    second: pic_saltar_7
+  - first:
+      213: -1396540482165867973
+    second: pic_saltar_8
+  - first:
+      213: -2204707355700599700
+    second: pic_saltar_9
+  - first:
+      213: 8959847692887316676
+    second: pic_saltar_10
+  - first:
+      213: 8286678793924071859
+    second: pic_saltar_11
+  - first:
+      213: -6829985446097188001
+    second: pic_saltar_12
+  - first:
+      213: -6903689029138183403
+    second: pic_saltar_13
+  - first:
+      213: 6222918602056458020
+    second: pic_saltar_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pic_saltar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be7049b8217c3090800000000000000
+      internalID: -8053437613924647244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 636
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a187cab8f8e8834a0800000000000000
+      internalID: -6613379305618769894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 636
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791a58e6713f9fb80800000000000000
+      internalID: -8360383951272566377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 636
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7143bd88961b2490800000000000000
+      internalID: -7770091887629483650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 636
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e483afd46f198db00800000000000000
+      internalID: 853592616442935374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58b6f0302c23aba0800000000000000
+      internalID: -6078966555247986595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 318
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef62a2dfe97c844b0800000000000000
+      internalID: -5455891462893197570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 318
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a4fe32b0b34b490800000000000000
+      internalID: -7731489741254735288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 318
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3afc06a4dd7e9ce0800000000000000
+      internalID: -1396540482165867973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_9
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 318
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6466cd475e4761e0800000000000000
+      internalID: -2204707355700599700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d6206106c75c70800000000000000
+      internalID: 8959847692887316676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15b975572300370800000000000000
+      internalID: 8286678793924071859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b0a407c640731a0800000000000000
+      internalID: -6829985446097188001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0572c76b2130a0800000000000000
+      internalID: -6903689029138183403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic_saltar_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 318.2
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fdeb58f7f3c5650800000000000000
+      internalID: 6222918602056458020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb242bf1ec4e90040a0573f44929e14c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pic_saltar_0: -8053437613924647244
+      pic_saltar_1: -6613379305618769894
+      pic_saltar_10: 8959847692887316676
+      pic_saltar_11: 8286678793924071859
+      pic_saltar_12: -6829985446097188001
+      pic_saltar_13: -6903689029138183403
+      pic_saltar_14: 6222918602056458020
+      pic_saltar_2: -8360383951272566377
+      pic_saltar_3: -7770091887629483650
+      pic_saltar_4: 853592616442935374
+      pic_saltar_5: -6078966555247986595
+      pic_saltar_6: -5455891462893197570
+      pic_saltar_7: -7731489741254735288
+      pic_saltar_8: -1396540482165867973
+      pic_saltar_9: -2204707355700599700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

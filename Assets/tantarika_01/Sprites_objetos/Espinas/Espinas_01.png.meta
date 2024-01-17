@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 79f37fbd6fbe923429b3e963ae9310a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6031658974168682621
+    second: Espinas_01_0
+  - first:
+      213: 2334602514777314397
+    second: Espinas_01_1
+  - first:
+      213: 8895323252372392251
+    second: Espinas_01_2
+  - first:
+      213: 4248568413816440821
+    second: Espinas_01_3
+  - first:
+      213: -3352484518935237114
+    second: Espinas_01_4
+  - first:
+      213: 3769772599791179760
+    second: Espinas_01_5
+  - first:
+      213: -8374287951317661293
+    second: Espinas_01_6
+  - first:
+      213: -7714636888344021523
+    second: Espinas_01_7
+  - first:
+      213: -326551114400870618
+    second: Espinas_01_8
+  - first:
+      213: -1149154972576008722
+    second: Espinas_01_9
+  - first:
+      213: -3031435127110803488
+    second: Espinas_01_10
+  - first:
+      213: 5185259247364143590
+    second: Espinas_01_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Espinas_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884.6666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d701f9141e1c4b350800000000000000
+      internalID: 6031658974168682621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 884.6666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5419013e9c266020800000000000000
+      internalID: 2334602514777314397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 884.6666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39cdeb5e59827b70800000000000000
+      internalID: 8895323252372392251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 884.6666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f749756672f5fa30800000000000000
+      internalID: 4248568413816440821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442.66666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e6edd97159971d0800000000000000
+      internalID: -3352484518935237114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 442.66666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7dd86d43ce05430800000000000000
+      internalID: 3769772599791179760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 442.66666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39980e62a7d88cb80800000000000000
+      internalID: -8374287951317661293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 442.66666
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5312bbf9a10f490800000000000000
+      internalID: -7714636888344021523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc029dd7bd77bf0800000000000000
+      internalID: -326551114400870618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0.6666565
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bbb314a16d00f0800000000000000
+      internalID: -1149154972576008722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0.6666565
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef5be820dd2ee5d0800000000000000
+      internalID: -3031435127110803488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espinas_01_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0.6666565
+        width: 231
+        height: 442.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9f27310ddb5f740800000000000000
+      internalID: 5185259247364143590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03b3dfa55c824d74098c999943446449
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Espinas_01_0: 6031658974168682621
+      Espinas_01_1: 2334602514777314397
+      Espinas_01_10: -3031435127110803488
+      Espinas_01_11: 5185259247364143590
+      Espinas_01_2: 8895323252372392251
+      Espinas_01_3: 4248568413816440821
+      Espinas_01_4: -3352484518935237114
+      Espinas_01_5: 3769772599791179760
+      Espinas_01_6: -8374287951317661293
+      Espinas_01_7: -7714636888344021523
+      Espinas_01_8: -326551114400870618
+      Espinas_01_9: -1149154972576008722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

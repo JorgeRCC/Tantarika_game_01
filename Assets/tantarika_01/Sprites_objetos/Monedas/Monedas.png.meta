@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: d48d871dde9ce284fa799f9ea1b41ff8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2625022825004175944
+    second: Monedas_0
+  - first:
+      213: 3606039785954195236
+    second: Monedas_1
+  - first:
+      213: -3914536107645294414
+    second: Monedas_2
+  - first:
+      213: -7298999175627011094
+    second: Monedas_3
+  - first:
+      213: -353401884930152204
+    second: Monedas_4
+  - first:
+      213: -5421606923344551449
+    second: Monedas_5
+  - first:
+      213: -4385942750199404787
+    second: Monedas_6
+  - first:
+      213: 8125255487413256743
+    second: Monedas_7
+  - first:
+      213: 4491145381739682619
+    second: Monedas_8
+  - first:
+      213: -6280426671863723980
+    second: Monedas_9
+  - first:
+      213: -4745044459353458387
+    second: Monedas_10
+  - first:
+      213: -8845572754712585341
+    second: Monedas_11
+  - first:
+      213: 2105741650771052654
+    second: Monedas_12
+  - first:
+      213: -2406639123706419948
+    second: Monedas_13
+  - first:
+      213: 279778071106419946
+    second: Monedas_14
+  - first:
+      213: -2147184122704334739
+    second: Monedas_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monedas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 210
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd655c06ab029bd0800000000000000
+      internalID: -2625022825004175944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 693
+        width: 215
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427b9b7641a3b0230800000000000000
+      internalID: 3606039785954195236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 688
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ac537626cca9c0800000000000000
+      internalID: -3914536107645294414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 694
+        width: 205
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb02e8ebeeb4ba90800000000000000
+      internalID: -7298999175627011094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 468
+        width: 194
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e8c9abd6781bf0800000000000000
+      internalID: -353401884930152204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 465
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1ef366a3592c4b0800000000000000
+      internalID: -5421606923344551449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 471
+        width: 186
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d072a217e400223c0800000000000000
+      internalID: -4385942750199404787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 464
+        width: 185
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228f8cf0d4b2c070800000000000000
+      internalID: 8125255487413256743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 234
+        width: 184
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bda39fde0c35e30800000000000000
+      internalID: 4491145381739682619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 241
+        width: 176
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4388ca1973177d8a0800000000000000
+      internalID: -6280426671863723980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 244
+        width: 184
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d293dcc5437362eb0800000000000000
+      internalID: -4745044459353458387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 238
+        width: 186
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b9b7802763e3580800000000000000
+      internalID: -8845572754712585341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6804faefd8193d10800000000000000
+      internalID: 2105741650771052654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 6
+        width: 217
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ebe8c776e99ed0800000000000000
+      internalID: -2406639123706419948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 12
+        width: 217
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecfd306ca8f1e300800000000000000
+      internalID: 279778071106419946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monedas_15
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 8
+        width: 206
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6079daaa6ba332e0800000000000000
+      internalID: -2147184122704334739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monedas_0: -2625022825004175944
+      Monedas_1: 3606039785954195236
+      Monedas_10: -4745044459353458387
+      Monedas_11: -8845572754712585341
+      Monedas_12: 2105741650771052654
+      Monedas_13: -2406639123706419948
+      Monedas_14: 279778071106419946
+      Monedas_15: -2147184122704334739
+      Monedas_2: -3914536107645294414
+      Monedas_3: -7298999175627011094
+      Monedas_4: -353401884930152204
+      Monedas_5: -5421606923344551449
+      Monedas_6: -4385942750199404787
+      Monedas_7: 8125255487413256743
+      Monedas_8: 4491145381739682619
+      Monedas_9: -6280426671863723980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
